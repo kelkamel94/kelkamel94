@@ -7,7 +7,7 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y aprender nuev
 - 🔭 Actualmente trabajando en: **[Proyecto actual]**
 - 🌱 Aprendiendo: **[Tecnología que estás aprendiendo]**
 - 👯 Busco colaborar en diferentes proyectos 
-- 💬 Pregúntame sobre: **JavaScript, HTML, CSS**
+- 💬 Pregúntame sobre: **JavaScript, HTML, CSS, React, Python**
 - 📫 Cómo contactarme: **[kelkamel94@gmail.com]**
 - ⚡ Dato curioso: **[Me encanta aprender]**
 
